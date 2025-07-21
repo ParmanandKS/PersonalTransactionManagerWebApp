@@ -24,7 +24,7 @@ PHP (on server/API side)
 
 🛠️ How to Use Clone the repository:
 
-git clone https://github.com/ParmanandKS/personalTransactionManager/ cd personalTransactionManager Open index.html in any modern browser.
+git clone https://github.com/ParmanandKS/PersonalTransactionManagerWebApp/ cd personalTransactionManager Open index.html in any modern browser.
 
 Note: This app uses an external API. Make sure internet access is available.
 
