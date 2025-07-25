@@ -549,6 +549,7 @@
               }
               document.getElementById("lastCredit").textContent = lastCredit;
               document.getElementById("lastDebit").textContent = lastDebit;
+              document.getElementById("logoutBtn").innerHTML=sessionStorage.getItem("mobNo");
             }
           })
           .catch(function () {
