@@ -244,7 +244,7 @@
           if (res.data.posts && res.data.posts.status == 200) {
             alert("Welcome back!");
             sessionStorage.setItem("userId", res.data.posts.id);
-            sessionStorage.setItem("userId", mobNo);
+            sessionStorage.setItem("mobNo", mobNo);
             window.location.href = "dashboard.html";
           } else {
             alert("Login failed. Please try again.");
